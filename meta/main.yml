@@ -1,0 +1,19 @@
+galaxy_info:
+  author: Pixel Fusion
+  description: php7 role
+
+  issue_tracker_url: https://github.com/pixelfuison/ansible-php/issues
+
+  license: MIT
+
+  min_ansible_version: 2.0
+
+  platforms:
+    - name: Debian
+      versions:
+      - all
+
+  galaxy_tags:
+    - php
+
+dependencies: []
